@@ -1,0 +1,23 @@
+Create a description of what you chose to do. Add the description to a text document in the
+root directory of your project. Name the text document challenge.txt.
+
+Fifth Phase – Challenge
+Menu Builder
+
+Instructions to add food from Menu:
+1. Click the blue 'Menu' button
+2. Click the checkbox in the front of the food you want to add in the popup window
+3. Click the button 'Add selected items to order?'
+You're all done!
+
+Don't want the selected food any more? That's easy! Just click the red cross sign of this food and you'll see the change.
+
+Instructions to edit the Menu:
+Add item:
+1. Click the blue 'Menu' button to open the Menu dialog
+2. Type the name and price of the menu item and click 'plus' button
+Edit item:
+1. Click the blue pencil sign in the end the of the row, you'll see the detail shown in the edit area
+2. Edit and then click 'Ok' button to update the changed information to database
+Delete item:
+1. Just click the red 'corss' sign.
